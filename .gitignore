@@ -1,0 +1,62 @@
+logs
+# compiled output
+/dist
+/tmp
+/out-tsc
+# Only exists if Bazel was run
+/bazel-out
+
+.gitee
+.github
+.git2
+
+# dependencies
+/node_modules
+
+# profiling files
+chrome-profiler-events.json
+speed-measure-plugin.json
+
+# IDEs and editors
+/.idea
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.history/*
+
+# misc
+/connect.lock
+/coverage
+/libpeerconnection.log
+npm-debug.log
+yarn-error.log
+testem.log
+/typings
+/generate_entities
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Clinic
+.clinic/
+
+# Temporary files
+.tmp/
+
+documentation
+
+src/typeorm/**/migration/**/*.ts
+
+src/typeorm/**/local_entity
+package-lock.json

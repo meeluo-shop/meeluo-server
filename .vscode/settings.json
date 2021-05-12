@@ -1,0 +1,35 @@
+{
+  "debug.node.autoAttach": "on",
+  "workbench.colorTheme": "One Monokai",
+  "editor.tabSize": 2,
+  "editor.detectIndentation": false,
+  "emmet.triggerExpansionOnTab": true,
+  "editor.formatOnSave": true,
+  "javascript.format.enable": true,
+  "git.enableSmartCommit": true,
+  "git.autofetch": true,
+  "git.confirmSync": false,
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "explorer.confirmDelete": false,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "files.exclude": {
+    "**/.idea": true
+  },
+  "editor.codeActionsOnSave": {
+    "source.fixAll.stylelint": true,
+    "source.fixAll.eslint": true
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.suggest.snippetsPreventQuickSuggestions": false,
+  "prettier.htmlWhitespaceSensitivity": "ignore",
+  "prettier.vueIndentScriptAndStyle": true,
+  "vetur.format.defaultFormatter.html": "prettier"
+}

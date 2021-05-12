@@ -1,0 +1,24 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "declaration": true,
+    "removeComments": true,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "target": "es2017",
+    "sourceMap": true,
+    "incremental": true,
+    "outDir": "./dist",
+    "baseUrl": "./",
+    "paths":{
+      "@app/*" :["src/app/*"],
+      "@core/*":["src/core/*"],
+      "@shared/*" :["src/shared/*"],
+      "@config/*":["src/config/*"],
+      "@library/*":["src/library/*"],
+      "@typeorm/*":["src/typeorm/*"],
+      "@typing/*":["src/typing/*"]
+    }
+  },
+  "exclude": ["node_modules", "dist"]
+}

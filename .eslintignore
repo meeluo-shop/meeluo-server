@@ -1,0 +1,2 @@
+src/typeorm/**/migration/**/*.ts
+src/library/*
