@@ -5,9 +5,8 @@ logs
 /out-tsc
 # Only exists if Bazel was run
 /bazel-out
-
-.gitee
 .github
+.gitee
 .git2
 
 # dependencies

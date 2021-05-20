@@ -73,7 +73,7 @@ $ npm run compodoc
 
 ## 演示地址
 
-商家后台：http://merchant.meeluo.com/index.html 账号 15888888888 密码 123456
+商家后台：http://merchant.meeluo.com/index.html (关注下方公众号，回复后台密码)
 
 移动端：1. 扫描二维码
 
@@ -83,20 +83,20 @@ $ npm run compodoc
 
 ## 核心技术
 
-| 技术        | 说明                                                                   |
-| ----------- | ---------------------------------------------------------------------- |
-| Node.js     | 后端编程语言                                                           |
-| Mysql       | 后端数据库                                                             |
-| Redis       | 后端缓存数据库                                                         |
-| RabbitMQ    | 后端消息队列                                                           |
-| Nacos       | 配置和管理微服务（可选）                                               |
-| Swagger-UI  | 文档生产工具                                                           |
-| Nest.js     | 后端开发框架（nodejs 版的 spring ）                                    |
-| Fastify     | 后端 server 引擎（目前最快的 nodejs 后端框架）                         |  |
-| vue3        | 高性能前端框架                                                         |
-| Taro3       | 跨平台前端框架                                                         |
-| element-ui  | 管理后台 UI 组件库                                                     |
-| WebAssembly | 浏览器端高性能解码、加密方案 基于 swagger，更便于国人使用的 swagger ui |
+| 技术        | 说明                                           |
+| ----------- | ---------------------------------------------- |
+| Node.js     | 后端编程语言                                   |
+| Mysql       | 后端数据库                                     |
+| Redis       | 后端缓存数据库                                 |
+| RabbitMQ    | 后端消息队列                                   |
+| Nacos       | 配置和管理微服务（可选）                       |
+| Swagger-UI  | 文档生产工具                                   |
+| Nest.js     | 后端开发框架（nodejs 版的 spring ）            |
+| Fastify     | 后端 server 引擎（目前最快的 nodejs 后端框架） |  |
+| vue3        | 高性能前端框架                                 |
+| Taro3       | 跨平台前端框架                                 |
+| element-ui  | 管理后台 UI 组件库                             |
+| WebAssembly | 浏览器端高性能解码、加密方案                   |
 
 ## 相关截图
 
@@ -108,15 +108,12 @@ $ npm run compodoc
 
 ![](https://assets.meeluo.com/3388045433126912/WX20210512-201148@2x.png)
 
-![](https://assets.meeluo.com/3388045433126912/WX20210512-201211@2x.png)
-
 ![](https://assets.meeluo.com/3388045433126912/WX20210512-201125@2x.png)
 
 ![](https://assets.meeluo.com/3388045433126912/WX20210512-201020@2x.png)
 
 ### 2. 移动端截图
 
-<img src="https://assets.meeluo.com/3388045433126912/2491620826749_.pic.jpg"/>
 <img src="https://assets.meeluo.com/3388045433126912/2531620827169_.pic.jpg"/>
 <img src="https://assets.meeluo.com/3388045433126912/2511620826751_.pic.jpg"/>
 <img src="https://assets.meeluo.com/3388045433126912/2521620826752_.pic.jpg"/>
