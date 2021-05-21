@@ -71,16 +71,6 @@ $ npm run compodoc
 
 移动端代码：（暂不开放，请联系作者）
 
-## 演示地址
-
-商家后台：http://merchant.meeluo.com/index.html (关注下方公众号，回复后台密码)
-
-移动端：1. 扫描二维码
-
-![小程序](https://assets.meeluo.com/3388025384353792/qrcode.png)
-
-​ 2. 搜索公众号 **谜鹿活动平台**
-
 ## 核心技术
 
 | 技术        | 说明                                           |
